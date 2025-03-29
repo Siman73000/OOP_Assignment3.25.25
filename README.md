@@ -6,7 +6,7 @@
 
 The calc.py file details a class with methods used to calculate two numbers in four simple algebraic ways; addition, multiplication, and division.
 
-Below is the submission of this assignment that passes all requirements regarding the instructions.
+Below is the submission of this assignment that passes all requirements according to the instructions.
 
 ## Submission
 
